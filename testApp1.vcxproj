@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Auto.h" />
+    <ClInclude Include="menus.h" />
     <ClInclude Include="simpCalc.h" />
     <ClInclude Include="simpCalc2.h" />
   </ItemGroup>

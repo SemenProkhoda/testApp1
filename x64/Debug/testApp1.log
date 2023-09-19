@@ -1,2 +1,6 @@
 ﻿  testApp1.cpp
+C:\Users\z004tbww\source\repos\testApp1\testApp1\Auto.h(100,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\z004tbww\source\repos\testApp1\testApp1\Auto.h(102,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\z004tbww\source\repos\testApp1\testApp1\Auto.h(110,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\z004tbww\source\repos\testApp1\testApp1\Auto.h(111,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   testApp1.vcxproj -> C:\Users\z004tbww\source\repos\testApp1\x64\Debug\testApp1.exe
